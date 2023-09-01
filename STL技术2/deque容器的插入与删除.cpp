@@ -1,7 +1,7 @@
 //#include <iostream>
 //#include <deque>
 //using namespace std;
-//// deque的插入与删除 与vector相比 多了头插
+//// deque鐨勬彃鍏ヤ笌鍒犻櫎 涓巚ector鐩告瘮 澶氫簡澶存彃
 //
 //void printdeque(const deque<int> d)
 //{
@@ -15,21 +15,21 @@
 //
 //void test01()
 //{
-//	// 插入数据
+//	// 鎻掑叆鏁版嵁//
 //	deque<int> d1;
 //	for (int i = 0; i < 10; i++)
 //	{
-//		d1.push_back(i); // 尾插
-//		d1.push_front(i); // 头插
+//		d1.push_back(i); // 灏炬彃
+//		d1.push_front(i); // 澶存彃
 //	}
 //	printdeque(d1);
 //
-//	// 删除数据
+//	// 鍒犻櫎鏁版嵁
 //	for (int i = 0; i < 10; i++)
 //	{
-//		d1.pop_back(); //尾删
+//		d1.pop_back(); //灏惧垹
 //	}
-//	d1.pop_front(); //头删
+//	d1.pop_front(); //澶村垹
 //	printdeque(d1);
 //}
 //
@@ -42,30 +42,30 @@
 //	d1.push_front(200);
 //	printdeque(d1);
 //
-//	// insert 插入
+//	// insert 鎻掑叆
 //	d1.insert(d1.begin(), 1000);
 //	printdeque(d1);
 //
-//	// insert 插入 2
+//	// insert 鎻掑叆 2
 //	d1.insert(d1.begin(),2,10000);
 //	printdeque(d1);
 //
-//	// insert 插入 区间插入
+//	// insert 鎻掑叆 鍖洪棿鎻掑叆
 //	deque<int> d2;
 //	d2.push_back(1);
 //	d2.push_back(2);
 //	d2.push_back(3);
 //	d1.insert(d1.begin(), d2.begin(), d2.end());
 //
-//	//删除
+//	//鍒犻櫎
 //	deque<int>::iterator it = d1.begin();
 //	it++;
 //	d1.erase(it);
 //
-//	//删除 区间
-//	d1.erase(d1.begin(), d1.end());  //这样写等于清空了
+//	//鍒犻櫎 鍖洪棿
+//	d1.erase(d1.begin(), d1.end());  //杩欐牱鍐欑瓑浜庢竻绌轰簡
 //
-//	//清空
+//	//娓呯┖
 //	d1.clear();
 //
 //}
@@ -79,4 +79,4 @@
 //}
 //
 //// 2023-8-31
-//// 完成
+//// 瀹屾垚
