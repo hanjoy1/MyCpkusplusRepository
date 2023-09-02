@@ -1,0 +1,11 @@
+﻿  WorkerManager.cpp
+C:\Users\13911\Desktop\c++\职工管理系统\zhigongguanlixitong\Worker.h(1,13): warning C4081: 应输入“newline”；找到“;”
+C:\Users\13911\Desktop\c++\职工管理系统\zhigongguanlixitong\Worker.h(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\13911\Desktop\c++\职工管理系统\zhigongguanlixitong\Worker.h(4,11): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  职工管理系统.cpp
+C:\Users\13911\Desktop\c++\职工管理系统\zhigongguanlixitong\Worker.h(1,13): warning C4081: 应输入“newline”；找到“;”
+C:\Users\13911\Desktop\c++\职工管理系统\zhigongguanlixitong\Worker.h(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\13911\Desktop\c++\职工管理系统\zhigongguanlixitong\Worker.h(4,11): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码...
+C:\Users\13911\Desktop\c++\职工管理系统\zhigongguanlixitong\WorkerManager.cpp(280): warning C4715: “WorkerManager::IsExist”: 不是所有的控件路径都返回值
+  zhigongguanlixitong.vcxproj -> C:\Users\13911\Desktop\c++\职工管理系统\zhigongguanlixitong\x64\Debug\zhigongguanlixitong.exe
