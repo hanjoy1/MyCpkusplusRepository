@@ -1,3 +1,5 @@
-﻿  map容器的排序操作.cpp
-C:\Users\13911\Desktop\githubclone\MyCpkusplusRepository\STL技术3\stl技术学习3\map容器的排序操作.cpp(1,1): warning C4828: 文件包含在偏移 0x360 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-  stl技术学习3.vcxproj -> C:\Users\13911\Desktop\githubclone\MyCpkusplusRepository\STL技术3\stl技术学习3\x64\Debug\stl技术学习3.exe
+﻿  员工分组案例.cpp
+C:\Users\13911\Desktop\c++\STL技术学习\STL技术3\员工分组案例.cpp(63,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\13911\Desktop\c++\STL技术学习\STL技术3\员工分组案例.cpp(71,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\13911\Desktop\c++\STL技术学习\STL技术3\员工分组案例.cpp(79,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  stl技术学习3.vcxproj -> C:\Users\13911\Desktop\c++\STL技术学习\STL技术3\x64\Debug\stl技术学习3.exe

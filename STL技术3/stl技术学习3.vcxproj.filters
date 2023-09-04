@@ -30,5 +30,8 @@
     <ClCompile Include="map容器的排序操作.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="员工分组案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -132,6 +132,7 @@
     <ClCompile Include="map容器的排序操作.cpp" />
     <ClCompile Include="map容器的插入和删除.cpp" />
     <ClCompile Include="map查找和统计.cpp" />
+    <ClCompile Include="员工分组案例.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
