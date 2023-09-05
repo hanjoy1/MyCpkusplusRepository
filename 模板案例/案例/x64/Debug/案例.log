@@ -1,0 +1,5 @@
+﻿  模板案例.cpp
+C:\Users\13911\Desktop\c++\模板案例\案例\模板案例.cpp(28,15): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\13911\Desktop\c++\模板案例\案例\模板案例.cpp(37,30): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\13911\Desktop\c++\模板案例\案例\模板案例.cpp(37,67): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  案例.vcxproj -> C:\Users\13911\Desktop\c++\模板案例\案例\x64\Debug\案例.exe
