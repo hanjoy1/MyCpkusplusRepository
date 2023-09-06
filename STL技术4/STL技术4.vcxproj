@@ -131,7 +131,16 @@
     <ClCompile Include="关系仿函数.cpp" />
     <ClCompile Include="内建函数对象.cpp" />
     <ClCompile Include="函数对象基本知识.cpp" />
+    <ClCompile Include="寻找指定元素binary_search.cpp" />
+    <ClCompile Include="常用查找算法adjacent_find.cpp" />
+    <ClCompile Include="常用的查找算法.cpp" />
+    <ClCompile Include="常用的查找算法count_if.cpp" />
+    <ClCompile Include="常用算法.cpp" />
+    <ClCompile Include="按条件查find_if.cpp" />
+    <ClCompile Include="统计个数count.cpp" />
     <ClCompile Include="谓词基本概念.cpp" />
+    <ClCompile Include="逻辑仿函数.cpp" />
+    <ClCompile Include="遍历算法transform.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

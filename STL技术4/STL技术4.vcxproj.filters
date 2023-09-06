@@ -30,5 +30,32 @@
     <ClCompile Include="关系仿函数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="逻辑仿函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="遍历算法transform.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用的查找算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="按条件查find_if.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用查找算法adjacent_find.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="寻找指定元素binary_search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="统计个数count.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用的查找算法count_if.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

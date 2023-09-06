@@ -1,7 +1,4 @@
-﻿  二元谓词.cpp
-C:\Users\13911\Desktop\githubclone\MyCpkusplusRepository\STL技术4\二元谓词.cpp(1,1): warning C4828: 文件包含在偏移 0x2ef 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-  关系仿函数.cpp
-  内建函数对象.cpp
-C:\Users\13911\Desktop\githubclone\MyCpkusplusRepository\STL技术4\内建函数对象.cpp(1,1): warning C4828: 文件包含在偏移 0x1e6 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-  正在生成代码...
+﻿  常用的查找算法count_if.cpp
+C:\Users\13911\Desktop\githubclone\MyCpkusplusRepository\STL技术4\常用的查找算法count_if.cpp(49,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\13911\Desktop\githubclone\MyCpkusplusRepository\STL技术4\常用的查找算法count_if.cpp(64,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
   STL技术4.vcxproj -> C:\Users\13911\Desktop\githubclone\MyCpkusplusRepository\STL技术4\x64\Debug\STL技术4.exe
