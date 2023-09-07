@@ -1,0 +1,7 @@
+﻿  Speaker.cpp
+  SpeechManager.cpp
+  SpeechManager.h
+  演讲比赛流程管理系统.cpp
+  正在生成代码...
+x64\Debug\SpeechManager.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  演讲比赛案列.vcxproj -> C:\Users\13911\Desktop\githubclone\MyCpkusplusRepository\演讲比赛案列\x64\Debug\演讲比赛案列.exe
