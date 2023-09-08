@@ -3,6 +3,10 @@
 #include<vector>
 #include<map>
 #include "Speaker.h"
+#include<algorithm>
+#include<deque>
+#include<functional>
+#include<numeric>
 using namespace std;
 
 // 设计演讲比赛管理类
@@ -22,7 +26,12 @@ public:
 	void initSpeech();
 	// 来点人
 	void createspeakers();
-
+	// 开始比赛
+	void startSpeech();
+	// 抽签
+	void speechdraw();
+	// 比赛
+	void speechcontest();
 
 	vector<int> v1; // 第一轮比赛者 编号
 	vector<int> v2; // 第一轮晋级者 编号
@@ -33,6 +42,7 @@ public:
 
 	// 存放轮次的变量
 	int round;
+	
 
 
 

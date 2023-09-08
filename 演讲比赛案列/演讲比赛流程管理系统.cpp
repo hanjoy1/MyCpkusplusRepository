@@ -28,6 +28,7 @@ void test01()
 		{
 		case 1:
 			// 开始比赛
+			SP.startSpeech();
 			break;
 		case 2:
 			// 查看往届记录
