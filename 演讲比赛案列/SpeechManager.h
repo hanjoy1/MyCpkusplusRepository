@@ -7,6 +7,7 @@
 #include<deque>
 #include<functional>
 #include<numeric>
+#include<fstream>
 using namespace std;
 
 // 设计演讲比赛管理类
@@ -32,6 +33,17 @@ public:
 	void speechdraw();
 	// 比赛
 	void speechcontest();
+	// 显示晋级结果
+	void showScore();
+	// 保存记录
+	void saverecord();
+	// 读取记录
+	void loadRecord();
+	// 显示往届记录
+	void showRecord();
+	// 显示往届得分
+	void showRecrd();
+
 
 	vector<int> v1; // 第一轮比赛者 编号
 	vector<int> v2; // 第一轮晋级者 编号
@@ -42,7 +54,9 @@ public:
 
 	// 存放轮次的变量
 	int round;
-	
+	bool fileIsenpty;
+
+	map<int, vector<string>> m_Record;
 
 
 

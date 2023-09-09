@@ -1,4 +1,16 @@
 ﻿  SpeechManager.cpp
+D:\v_s\VC\Tools\MSVC\14.36.32532\include\utility(247,16): warning C4244: “初始化”: 从“double”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\13911\Desktop\githubclone\MyCpkusplusRepository\演讲比赛案列\SpeechManager.cpp(178,35): message : 查看对正在编译的函数 模板 实例化“std::pair<int,int>::pair<double&,int&,0>(_Other1,_Other2) noexcept”的引用
+          with
+          [
+              _Other1=double &,
+              _Other2=int &
+          ]
+C:\Users\13911\Desktop\githubclone\MyCpkusplusRepository\演讲比赛案列\SpeechManager.cpp(178,20): message : 请参阅 "SpeechManager::speechcontest" 中对 "std::pair<int,int>::pair" 的第一个引用
 D:\v_s\VC\Tools\MSVC\14.36.32532\include\numeric(34,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
           with
           [
@@ -11,12 +23,14 @@ D:\v_s\VC\Tools\MSVC\14.36.32532\include\numeric(43,17): message : 查看对正�
               _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,
               _Fn=std::plus<void>
           ]
-C:\Users\13911\Desktop\githubclone\MyCpkusplusRepository\演讲比赛案列\SpeechManager.cpp(153,15): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,int>(const _InIt,const _InIt,_Ty)”的引用
+C:\Users\13911\Desktop\githubclone\MyCpkusplusRepository\演讲比赛案列\SpeechManager.cpp(165,16): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,int>(const _InIt,const _InIt,_Ty)”的引用
           with
           [
               _Ty=int,
               _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>
           ]
   SpeechManager.h
+  演讲比赛流程管理系统.cpp
   正在生成代码...
+x64\Debug\SpeechManager.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
   演讲比赛案列.vcxproj -> C:\Users\13911\Desktop\githubclone\MyCpkusplusRepository\演讲比赛案列\x64\Debug\演讲比赛案列.exe

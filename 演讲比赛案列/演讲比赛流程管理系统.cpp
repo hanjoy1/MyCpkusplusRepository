@@ -32,9 +32,11 @@ void test01()
 			break;
 		case 2:
 			// 查看往届记录
+			SP.loadRecord();
 			break;
 		case 3:
 			// 清空
+			SP.showRecord();
 			break;
 
 		case 0:
