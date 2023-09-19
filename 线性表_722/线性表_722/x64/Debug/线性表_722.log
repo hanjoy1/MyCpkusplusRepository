@@ -1,0 +1,135 @@
+﻿  xianxingbiao.c
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(2,16): error C2143: 语法错误: 缺少“{”(在“<=”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(2,16): error C2059: 语法错误:“<=”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(2,23): error C2143: 语法错误: 缺少“{”(在“++”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(2,23): error C2059: 语法错误:“++”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(6,10): error C2143: 语法错误: 缺少“{”(在“字符串”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(6,10): error C2059: 语法错误:“字符串”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(9,5): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(9,14): error C2374: “n”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,17): message : 参见“n”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(10,1): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(10,12): error C2065: “（1”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(10,19): error C2065: “n）”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(11,10): error C2143: 语法错误: 缺少“{”(在“字符串”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(11,10): error C2059: 语法错误:“字符串”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(15,8): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(15,17): error C2374: “n”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,17): message : 参见“n”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(16,1): error C2374: “for（i”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(2,1): message : 参见“for（i”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(16,16): error C2143: 语法错误: 缺少“{”(在“<=”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(16,16): error C2059: 语法错误:“<=”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(16,23): error C2143: 语法错误: 缺少“{”(在“++”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(16,23): error C2059: 语法错误:“++”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(20,10): error C2143: 语法错误: 缺少“{”(在“字符串”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(20,10): error C2059: 语法错误:“字符串”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(23,5): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(23,14): error C2374: “n”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,17): message : 参见“n”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(24,1): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(25,10): error C2143: 语法错误: 缺少“{”(在“字符串”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(25,10): error C2059: 语法错误:“字符串”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(28,18): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(28,27): error C2374: “n”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,17): message : 参见“n”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(29,1): error C2374: “for（i”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(2,1): message : 参见“for（i”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(29,16): error C2143: 语法错误: 缺少“{”(在“<=”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(29,16): error C2059: 语法错误:“<=”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(29,23): error C2143: 语法错误: 缺少“{”(在“++”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(29,23): error C2059: 语法错误:“++”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(37,10): error C2143: 语法错误: 缺少“{”(在“字符串”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(37,10): error C2059: 语法错误:“字符串”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(40,5): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(40,14): error C2374: “n”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,17): message : 参见“n”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(41,1): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(42,10): error C2143: 语法错误: 缺少“{”(在“字符串”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(42,10): error C2059: 语法错误:“字符串”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(45,5): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(45,14): error C2374: “n”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,17): message : 参见“n”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(46,1): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(46,12): error C2065: “（1”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(46,19): error C2065: “n）”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(47,1): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(47,12): error C2065: “（1”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(47,19): error C2065: “n）”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(48,1): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(48,12): error C2065: “（1”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(48,19): error C2065: “n）”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(49,1): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(49,12): error C2065: “（1”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(49,19): error C2065: “n）”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(50,1): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(50,12): error C2065: “（1”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(50,19): error C2065: “n）”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(51,1): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(51,12): error C2065: “（1”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(51,19): error C2065: “n）”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(52,1): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(52,12): error C2065: “（1”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(52,19): error C2065: “n）”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(53,1): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(53,12): error C2065: “（1”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(53,19): error C2065: “n）”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(54,1): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(54,12): error C2065: “（1”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(54,19): error C2065: “n）”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(55,1): error C2374: “sum”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(1,8): message : 参见“sum”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(55,12): error C2065: “（1”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(55,19): error C2065: “n）”: 未声明的标识符
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(56,10): error C2143: 语法错误: 缺少“{”(在“字符串”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(56,10): error C2059: 语法错误:“字符串”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(60,1): error C2374: “for（i”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(2,1): message : 参见“for（i”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(60,16): error C2143: 语法错误: 缺少“{”(在“<”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(60,16): error C2059: 语法错误:“<”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(60,22): error C2143: 语法错误: 缺少“{”(在“++”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(60,22): error C2059: 语法错误:“++”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(67,1): error C2059: 语法错误:“while”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(75,1): error C2374: “for（i”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(2,1): message : 参见“for（i”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(75,16): error C2143: 语法错误: 缺少“{”(在“<”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(75,16): error C2059: 语法错误:“<”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(75,22): error C2143: 语法错误: 缺少“{”(在“++”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(75,22): error C2059: 语法错误:“++”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(84,1): error C2374: “for（i”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(2,1): message : 参见“for（i”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(84,16): error C2143: 语法错误: 缺少“{”(在“<”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(84,16): error C2059: 语法错误:“<”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(84,22): error C2143: 语法错误: 缺少“{”(在“++”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(84,22): error C2059: 语法错误:“++”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(93,1): error C2374: “for（i”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(2,1): message : 参见“for（i”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(93,16): error C2143: 语法错误: 缺少“{”(在“<”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(93,16): error C2059: 语法错误:“<”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(93,22): error C2143: 语法错误: 缺少“{”(在“++”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(93,22): error C2059: 语法错误:“++”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(103,1): error C2374: “for（i”: 重定义；多次初始化
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(2,1): message : 参见“for（i”的声明
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(103,16): error C2143: 语法错误: 缺少“{”(在“<”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(103,16): error C2059: 语法错误:“<”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(103,22): error C2143: 语法错误: 缺少“{”(在“++”的前面)
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(103,22): error C2059: 语法错误:“++”
+C:\Users\13911\Desktop\c++\线性表_722\线性表_722\xianxingbiao.c(103,22): fatal  error C1003: 错误计数超过 100；正在停止编译
